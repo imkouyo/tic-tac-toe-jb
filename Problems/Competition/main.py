@@ -5,7 +5,7 @@ if check:
 else:
     status = 'loser'
 
-if status == status:
+if status:
     winning_sum = 100
 else:
     winning_sum = 10
